@@ -1,7 +1,7 @@
 #!/bin/bash
 # Backup the Git repository folder to a backup location
 
-# Change these paths to match your setup
+# Change these paths to match setup
 REPO_FOLDER="$HOME/michaelfolder1/Michaelamaram/gitrepository"
 BACKUP_FOLDER="$HOME/michaelfolder1/Michaelamaram/gitrepository_backup"
 
